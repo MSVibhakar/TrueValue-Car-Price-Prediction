@@ -100,6 +100,9 @@ Effect of all the variable ;
 ![download15](https://user-images.githubusercontent.com/85379601/144176226-dd822214-5dd1-4a2e-83de-50bcb1ec5a20.png)
 
 
+![download19](https://user-images.githubusercontent.com/85379601/144355676-899dd6ae-0bcc-4ca7-8598-d7036c605837.png)
+
+
 
 # Conclusion:
 Prices of the cars are generally depended on the number of years used and number of owners it has . but sales are also highly effected by the brandvalue of the cars 
