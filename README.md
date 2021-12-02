@@ -38,6 +38,8 @@ Out of all Maruthi have the hihest number of cars , as per city Mumbai have hige
 * WE have catagorized the cars on the basis of number of kilometers driven and number of years the car used and compred them with the salesprices, surprizigly the sales price of the  driven a lot  car is greater then the price of less driven car  which is as followes :
 
 ![download8](https://user-images.githubusercontent.com/85379601/144170593-73062e94-4a33-466c-89a5-6284d7112530.png),
+![download18](https://user-images.githubusercontent.com/85379601/144355209-a4d8e3e7-efb6-4e99-94fa-0489211d628c.png)
+
 
 AS we know the car price of car is dropped right the very moment it is purchased , we have calculted the price drop by each year and observed the price drop of the luxary sedan is low at 0.7% and highest for SUV at 2.5 % . 
 
@@ -60,10 +62,15 @@ Not only that , sales prices is also influened by the brand value of the makers 
 ![download11](https://user-images.githubusercontent.com/85379601/144172560-50c23d93-6f68-4f61-bebe-65a9c4d13525.png)
 
 ![download10](https://user-images.githubusercontent.com/85379601/144172579-89f51a27-dd8e-41d3-984b-7162a1a18baa.png)
+![download17](https://user-images.githubusercontent.com/85379601/144355133-a8e53d1d-a78a-4404-aa79-46e5cf7849ea.png)
+
 
 But over all in genereal prices are deviating linearly as the number of years passed on lets understand it more better , take a look at the below graph drawn for the salesprice and kilomertes driven segregated by the catagories in legend (catagorized on the number if years used :
 
 ![download12](https://user-images.githubusercontent.com/85379601/144173086-b0e9cdf4-1e83-46b6-926c-666b77ee5980.png)
+![download20](https://user-images.githubusercontent.com/85379601/144355058-abaa447e-72da-454e-b780-09a7aa7f8ca1.png)
+![download21](https://user-images.githubusercontent.com/85379601/144355077-37af158a-bc32-497b-9197-03b81ff9b817.png)
+
 
 Observe that :
 * Most of the cars in the bracket of (0,200000) on x axis and (0,1) on y axis
@@ -71,9 +78,12 @@ Observe that :
 * observe the same with the orange and green datapoints ,orange points are linearly growing (most deviated to x axis ) indicating that price actually kept constant arounf 0.5le for certain intervel even numbers of kilometers kep increasing but at point of the car is driven 1 lack kilometers datapoints started coming down from 0.5 to 0.
 * Contrastly for the old cars even the car is only less driven it did not have a high sale value and kept on decresing as the time passes on .
 
-In comparion to the 3yr used car and 5yr used car though they might not have high number of kilomerters in their odometer 5yr old car had a less price also observing that some of the 5yr old car same price as the 3yr old car with more number of kilometers driven , this is because of the brand value of the car take a look below ; This graph is taken for the Hatchback bocy type and kilometer on x axis and price on y axis legend for 3yr and 5yr 
+In comparion to the 3yr used car and 5yr used car though they might not have high number of kilomerters in their odometer 5yr old car had a less price also observing that some of the 8yr old car same price as the 3yr old car with more number of kilometers driven , this is because of the brand value of the car take a look below ; This graph is taken for the Hatchback bocy type and kilometer on x axis and price on y axis legend for 3yr and 8yr 
 
-![image](https://user-images.githubusercontent.com/85379601/144174412-44180aca-fc2b-4669-ba0e-08b746be27fd.png)
+![download23](https://user-images.githubusercontent.com/85379601/144354994-cfdb187e-e415-465a-a611-212dc6ad056e.png)
+![download24](https://user-images.githubusercontent.com/85379601/144355011-e2c40f6a-f6bb-4ff0-87e6-2193053200c4.png)
+![download25](https://user-images.githubusercontent.com/85379601/144355020-6b18124b-1ca9-4f4a-9216-10de4196c52c.png)
+
 
 
 Not only that EMI to be paied every month is the major contributor for all the middle class familes to purchase a car and that is the most importent factor effecting the saleprice (Below are top5 factors that are effecting sales price ) :
