@@ -31,7 +31,7 @@ Steps that are carried out in the project :
  8. Importing a Pickel file  
 
 
-# DATA ANLYTICS :
+# EXPLORATORY DATA ANALYSIS :
 
 Our data is taken from 13 cities in india ,it includes 26 diffrent makeres, with both automaticn and manual transmissions and has 5 diffrent bodytypes like hatchback,sedan,suv,luxarysuv and luxarysedan with 182 diffrent model and 3 avialbilty sources 5 diffrent fuel types includes CNG,Electric,LPG.
 Out of all Maruthi have the hihest number of cars , as per city Mumbai have higest number of cars, majority of petrol engines and manual trasmisson and rated great by TrueValue 
